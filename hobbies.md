@@ -18,4 +18,4 @@ permalink: /hobbies/
 * Learning KVM/QEMU/IOMMU hardware passthrough
 
 ## Audiophile Hardware
-* Researching headphones and dac/amps
+* Researching speakers, headphones and dac/amps

@@ -16,7 +16,7 @@
 title: TSTR
 email: ethancooke@ethancooke.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  Ethan Cooke is a developer in test.
+  Ethan Cooke's blog on the subject of software development, testing and generally tech.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EthanTestsLife
