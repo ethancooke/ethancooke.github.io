@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TSTR
-email: ethancooke@ethancooke.ca
+email: e@tstr.icu
 description: >- # this means to ignore newlines until "baseurl:"
   Ethan Cooke's blog on the subject of software development, testing and generally tech.
 baseurl: "" # the subpath of your site, e.g. /blog
