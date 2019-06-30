@@ -2,8 +2,8 @@
 layout: page
 title: Tester Resources
 permalink: /resources/
+youtubeId: ILkT_HV9DVU
 ---
-
 ## Videos
 I highly recommend videos for learning about being a Tester. For me the voice and physical emotions expressed by the speakers really motivates me in this format.
 
