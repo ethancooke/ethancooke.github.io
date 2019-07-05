@@ -2,7 +2,6 @@
 layout: page
 title: Tester Resources
 permalink: /resources/
-youtubeId: ILkT_HV9DVU
 ---
 ## Videos
 I highly recommend videos for learning about being a Tester. For me the voice and physical emotions expressed by the speakers really motivate me in this format.
@@ -13,6 +12,13 @@ Here is my first proper video I watched on the topic of Software Testing that ch
 The role of the tester has been in question of its importance and relavence. I found this to be a good video on the topic: [The Future of the Testing Role - James Bach](https://www.youtube.com/watch?v=c5821YeWico)
 
 A lot of testers are talking about 'Test Automation'. In the school of testing I follow we might call this 'Automated "Checking"' or 'Tool Supported Testing'. Check this out: [Examples of Tool-Supported Testing with James Bach](https://www.youtube.com/watch?v=HWTzgS0aoP8)
+
+I really like the opening part of this video showing off Fedex Drone service and thinking of how things could go wrong. This helps set the tone for the rest of the talk. [Quality Jam 2017: Michael Bolton "A Ridiculously Rapid Introduction to Rapid Software Testing"](https://www.youtube.com/watch?v=AS2kuD--z44)
+
+Additional Videos:
+* [Risk-based Testing with James Bach](https://www.youtube.com/watch?v=Sz-WiCV2eh4)
+* [Beauty in Code 2018, 1 of 7 — James Bach: "Beauty or Bugs: Using the Blink Oracle in Testing"](https://www.youtube.com/watch?v=5W_VLzNhT-s)
+* [Michael Bolton - Testing is Testing - Agile is Context / Change 2018](https://www.youtube.com/watch?v=6IBkr3KORUc)
 
 ## Books
 Here are some archaic formatted education tools. Books may not be as popular for the new generation of Testers, but sometimes I like to slow down and physically have a textbook in hand. If the book has exercises to follow, I like that it doesn't take up screen real estate while working on it.
