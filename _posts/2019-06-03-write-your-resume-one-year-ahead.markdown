@@ -18,4 +18,4 @@ Short example using knowledge I have so far of how this job will go:
 * *New Title* : Software Developer In Test
 * *Skills* : Multi platform testing (iOS, OSX, tvOS, Android, FireTV, Xbox One, PS4, Roku and Tizen). Appium Test Automation for React Native, Adobe After Effects, C++, Vagrant
 * *Projects* : React Native, Product Automation, Build
-* *Achievements* : Improved Regression Testing Application to reduce difficulties blocking exploratory testing. Develop an Automated Regression Testing Suite to reduce delivery time and improve tester experience. Created Vagrant scripts to put together developer environments.
+* *Achievements* : Improved Regression Testing Application to reduce difficulties blocking exploratory testing. Develop an Automated Regression Testing Suite to reduce delivery time and improve tester experience. Created Packer and Vagrant scripts to put together developer environments and deploy to Virtualbox and AWS.

@@ -12,5 +12,9 @@ Also curious if keeping a blog hosted on github will make my github account look
 
 To be seen is how this blog survives as Jekyll when I try to introduce media such as photos, audio (potentially podcast) and videos. I might look toward AWS S3 buckets to support that path of hosting larger files.
 
+Additional update, I am looking for a way to move my workflow to the cloud so that it does not matter which device I want to work from. I could do branching to move half written articles around, but that feels dirty.
+
+Update again: I got another reminder of one of the reasons I wanted to switch away from a over built blogging platform. With WordPress I would get a lot of spam to my email account that was associated wth the blog. I had the commenting feature turned on initial hoping for feedback and instead it was again just spam. I have no intention to turn on comments with this current blog. If I am looking for feedback I'd probably request it directly or post on social media where comments can live away from the blog and keep this site uncluttered.
+
 ## Enjoy this image test :)
 ![Using this caricature as a test](/assets/caricature.jpg)
