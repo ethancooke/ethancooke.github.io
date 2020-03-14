@@ -19,3 +19,20 @@ Short example using knowledge I have so far of how this job will go:
 * *Skills* : Multi platform testing (iOS, OSX, tvOS, Android, FireTV, Xbox One, PS4, Roku and Tizen). Appium Test Automation for React Native, Adobe After Effects, C++, Vagrant
 * *Projects* : React Native, Product Automation, Build
 * *Achievements* : Improved Regression Testing Application to reduce difficulties blocking exploratory testing. Develop an Automated Regression Testing Suite to reduce delivery time and improve tester experience. Created Packer and Vagrant scripts to put together developer environments and deploy to Virtualbox and AWS.
+
+I am almost at the one year mark now and this would be my updated version below:
+---
+Note: When reading one of these summaries, realize that it is an over simplification of the overall story of what has been achieved.
+* *Title* : Software Developer In Test
+* *Skills* : 
+  * Multi platform testing (Android, Android TV, iOS, OSX, tvOS, PS4, Roku, Tizen, Vestel, VS2017, WebOS and Xbox One). 
+  * Vagrant/Packer image building for VirtualBox an AWS. 
+  * Working on Jenkins (scripting jobs, building nodes and configuring setup).
+* *Projects/Teams* : 
+  * React Native(Perform Testing)
+  * Build Solutions
+* *Achievements* : 
+  * Advocating for a better approach to our Automated Regression Testing Suite to reduce delivery time and improve tester experience. 
+  * Created Packer and Vagrant scripts to put together developer environments and deploy to Virtualbox and AWS, including Jenkins nodes.
+  * Organized weekly tester "guild" meetings for the product team, focused on improving skill set of the testers and their craft.
+  * Worked on [youi-cli](https://www.npmjs.com/package/youi-cli) adding/maintaining functionality.
