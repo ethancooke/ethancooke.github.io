@@ -4,6 +4,14 @@ title:  "Using Jekyll is a refreshing start from using WordPress"
 date:   2019-04-15
 categories: firsts
 ---
+
+Audio Update:
+This is a new change in 2020 to my blogs, I will now be adding at the top of the pages audio recordings of the content below. 
+
+<audio tabindex="0" controls="" preload="none" style="width: 100%">
+    <source src="https://smaugcloud.duckdns.org/index.php/s/MEiKqp96CgE2T8L/download" type="audio/ogg">
+</audio>
+
 This will be the first proper post for my upcoming blog. This blog will be running on jekyll and hosted on github pages. I have a background using WordPress for blogging but overall I have never enjoyed the experience of WordPress. WordPress has always felt too heavy and bloated. My needs are fairly simple at this point. Jekyll with github pages is what I have been looking for and it just passed under my radar recently. I've wanted to have a website/blog that is automatically up to date with a simple *git push* command and here it is. 
 
 So far my work flow has been to use git via CLI and to then run `code .` to launch Visual Studio Code as my IDE/Text Editor to modify `.markdown` files. Most of the time I work on my laptop so I only need to run commands such as `git add .`, `git commit -m ""`, and `git push`. Sometimes I like to switch to my desktop so that includes a simple `git pull` to get up to date on the state of this blog. I find it really simple.
