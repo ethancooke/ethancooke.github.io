@@ -33,6 +33,18 @@ theme: minima
 plugins:
   - jekyll-feed
 
+include:
+  - .well-known
+
+# Minima 2.x still uses legacy Sass APIs that emit deprecation warnings on newer
+# Dart Sass. Silence known deprecations to keep build output readable.
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
